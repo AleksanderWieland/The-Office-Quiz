@@ -1,6 +1,6 @@
 # The Office Quiz
 
-EDIT 25.05.2023: Unfortunately officeapi.dev no longer works!
+EDIT 25.05.2023: Unfortunately officeapi.dev no longer works! Therefore my app wouldn't work either.
 
 Simple The Office Quiz made in Flutter.
 
